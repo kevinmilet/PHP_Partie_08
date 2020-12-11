@@ -10,6 +10,5 @@
     <p><strong>Adresse IP: </strong><?=$_SERVER['SERVER_ADDR'];?></p>
     <p><strong>Nom du serveur: </strong><?=$_SERVER['SERVER_NAME'];?></p>
 
-
 </body>
 </html>
